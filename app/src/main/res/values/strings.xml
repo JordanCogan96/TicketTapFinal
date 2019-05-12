@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TicketTap</string>
+    <string name="servicedesc" />
+    <string name="aiddescription" />
+    <string name="your_message_here">Your Message Here</string>
+    <string name="message">Message</string>
+    <string name="password">Password</string>
+    <string name="create_new_user">Create New User</string>
+    <string name="edit_user_privileges">Edit User Privileges</string>
+    <string name="delete_user">Delete User</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="ticket_tap_login">Ticket Tap Login</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="dropdown" />
+    <string name="user_type">User Type:</string>
+    <string name="username">Username</string>
+    <string name="ticket_tap_admin_login">Ticket Tap Admin Login</string>
+    <string name="ticket_tap_vip_login">Ticket Tap VIP Login</string>
+    <string name="ticket_tap_security_team_login">Ticket Tap Security Team Login</string>
+    <string name="ticket_tap_standard_attendant_login">Ticket Tap Standard Attendant Login</string>
+    <string name="select_user_type">Select User Type</string>
+    <string name="admin">Admin</string>
+    <string name="security">Security</string>
+    <string name="vip">VIP</string>
+    <string name="attendant">Attendant</string>
+    <string name="submit">Submit</string>
+    <string name="messageSendingComplete">Message Sent</string>
+    <string name="ticket_tap_attendant_login">Ticket Tap Attendant Login</string>
+    <string name="get_email">Get Email</string>
+    <string name="get_role">Get Role</string>
+    <string name="back">Back</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="please_enter_email_address_for_your_account">Please Enter Email Address For Your Account</string>
+    <string name="attendant_home_page">Attendant Home Page</string>
+    <string name="change_temporary_password">Change Password</string>
+    <string name="view_account_privileges">View Account Privileges</string>
+    <string name="scan_nfc_ticket">Scan NFC Ticket</string>
+    <string name="view_users">View Users</string>
+    <string name="viewing_account_privileges">Viewing Account Privileges</string>
+    <string name="account_type">Account Type:</string>
+    <string name="attendants_are_only_able_to_access_the_standard_public_areas">Attendants are only able to access the standard public areas.</string>
+    <string name="security_has_the_highest_event_clearance_and_can_access_all_areas_of_the_venue">Security has the highest event clearance and can access all areas of the venue.</string>
+    <string name="vips_can_vary_from_performers_at_a_concert_to_business_employees_at_a_job_fair_vips_have_higher_clearance_to_attendants_and_can_access_backstage_areas">VIPs can vary from performers at a concert to business employees at a job fair. VIPs have higher clearance to attendants and can access backstage areas.</string>
+    <string name="note">Note!</string>
+    <string name="it_is_highly_recommend_you_change_the_temporary_password_provided">It is highly recommend you change the temporary password provided</string>
+
+
+</resources>

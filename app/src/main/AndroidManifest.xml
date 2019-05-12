@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tickettap">
+
+    <uses-permission android:name="android.permission.NFC" />
+
+    <uses-feature android:name="android.hardware.nfc" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tickettaplogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".VIP.VipPriv"></activity>
+        <activity android:name=".Security.SecurityPriv" />
+        <activity android:name=".Attendant.AttendantPriv" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NFC.ReceiverActivity" />
+        <activity android:name=".NFC.NFCSenderActivity" />
+        <activity android:name=".DisplayData.DisplayUser" />
+        <activity android:name=".ResetPasswordActivity" />
+        <activity android:name=".Attendant.AttendantLoginActivity" />
+        <activity android:name=".Attendant.AttendantHome" />
+        <activity android:name=".VIP.VipLoginActivity" />
+        <activity android:name=".VIP.VipHome" />
+        <activity android:name=".Security.SecurityLoginActivity" />
+        <activity android:name=".Security.SecurityHome" />
+        <activity android:name=".Admin.AdminLoginActivity" />
+        <activity android:name=".Admin.CreateNewUserActivity" />
+        <activity android:name=".Admin.AdminPanelActivity" />
+    </application>
+
+</manifest>

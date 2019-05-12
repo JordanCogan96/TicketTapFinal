@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "810457618399",
+    "firebase_url": "https://finalyearproject-75676.firebaseio.com",
+    "project_id": "finalyearproject-75676",
+    "storage_bucket": "finalyearproject-75676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810457618399:android:450609a109d35e6c",
+        "android_client_info": {
+          "package_name": "com.example.jordan.finalyearproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810457618399-harin3vspdos28dh86tg74psdq7jp151.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jordan.finalyearproject",
+            "certificate_hash": "6648f388b13e188b8c451039af622fc68b2c63cf"
+          }
+        },
+        {
+          "client_id": "810457618399-mufbl4s1dnfru350gs09qduf18ih6qvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jordan.finalyearproject",
+            "certificate_hash": "8ca73017fe0e664b546bd2574dae703a33777ee0"
+          }
+        },
+        {
+          "client_id": "810457618399-iea3i02pcj185tsr0ra3qb56c0f4eepd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-b8jjgmaHvydUrdkqLMkyyhALBddchw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810457618399-iea3i02pcj185tsr0ra3qb56c0f4eepd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810457618399:android:68e4367208f72040",
+        "android_client_info": {
+          "package_name": "com.example.tickettap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810457618399-498jheev9puvon0s24530jlfsu6m20k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tickettap",
+            "certificate_hash": "6648f388b13e188b8c451039af622fc68b2c63cf"
+          }
+        },
+        {
+          "client_id": "810457618399-iea3i02pcj185tsr0ra3qb56c0f4eepd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-b8jjgmaHvydUrdkqLMkyyhALBddchw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810457618399-iea3i02pcj185tsr0ra3qb56c0f4eepd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
